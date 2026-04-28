@@ -1,0 +1,6 @@
+{
+  "name": "Test BONK",
+  "symbol": "tBONK",
+  "description": "Devnet fungible token rendering fixture.",
+  "image": "https://raw.githubusercontent.com/Sheriff1980/solana-devnet-nft-fixtures/main/images/test-mad-lad-3.png"
+}

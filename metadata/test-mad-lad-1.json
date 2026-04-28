@@ -1,0 +1,6 @@
+{
+  "name": "Test Mad Lad #1",
+  "symbol": "TML",
+  "description": "Devnet NFT image rendering fixture.",
+  "image": "https://raw.githubusercontent.com/Sheriff1980/solana-devnet-nft-fixtures/main/images/test-mad-lad-1.png"
+}
