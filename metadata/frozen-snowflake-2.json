@@ -1,0 +1,6 @@
+{
+  "name": "Frozen Snowflake NFT #2",
+  "symbol": "FRZN",
+  "description": "Devnet frozen NFT fixture for snowflake overlay testing.",
+  "image": "https://raw.githubusercontent.com/Sheriff1980/solana-devnet-nft-fixtures/main/images/test-mad-lad-2.png"
+}
